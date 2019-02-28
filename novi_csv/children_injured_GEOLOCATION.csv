@@ -1,0 +1,962 @@
+name,lat,lon
+"Wichita",37.7091,-97.2925
+"Wichita",37.7091,-97.2925
+"Wichita",37.7091,-97.2925
+"Saint Cloud",45.5494,-94.1312
+"Saint Cloud",45.5494,-94.1312
+"Kansas City",39.0867,-94.5146
+"Kansas City",39.0867,-94.5146
+"Saint Paul",44.9774,-93.1086
+"Saint Paul",44.9774,-93.1086
+"Saint Paul",44.9774,-93.1086
+"Sylmar",34.308,-118.43
+"Sylmar",34.308,-118.43
+"San Antonio",29.4057,-98.5191
+"Louisville",38.2248,-85.7784
+"Monroe (Richwood)",32.5443,-92.1058
+"Nashville",36.1895,-86.8179
+"Nashville",36.1895,-86.8179
+"Nashville",36.1895,-86.8179
+"Nashville",36.1895,-86.8179
+"Nashville",36.1895,-86.8179
+"Sparta",43.9515,-90.8223
+"Sparta",43.9515,-90.8223
+"East Hartford",41.7776,-72.5902
+"East Hartford",41.7776,-72.5902
+"Longview",32.4768,-94.7111
+"Longview",32.4768,-94.7111
+"Longview",32.4768,-94.7111
+"Saint Louis",38.6706,-90.2609
+"Charlotte",35.2094,-80.8955
+"Charlotte",35.2094,-80.8955
+"Charlotte",35.2094,-80.8955
+"Gallatin (county)",45.6805,-111.019
+"Gallatin (county)",45.6805,-111.019
+"Wilson",35.6929,-77.8906
+"Cincinnati",39.2737,-84.5622
+"Cincinnati",39.2737,-84.5622
+"Cincinnati",39.2737,-84.5622
+"Chicago",41.9111,-87.7728
+"Chicago",41.9111,-87.7728
+"Chicago",41.9169,-87.7559
+"Chicago",41.9169,-87.7559
+"Chicago",41.9169,-87.7559
+"Gadsden",33.9943,-86.0044
+"Gadsden",33.9943,-86.0044
+"Gadsden",33.9943,-86.0044
+"Gadsden",33.9943,-86.0044
+"Salt Lake City (West Valley City)",40.6825,-111.939
+"Salt Lake City (West Valley City)",40.6825,-111.939
+"Salt Lake City (West Valley City)",40.6825,-111.939
+"Salt Lake City (West Valley City)",40.6825,-111.939
+"New Orleans",29.9962,-90.0499
+"New Orleans",29.9962,-90.0499
+"New Orleans",29.9962,-90.0499
+"New Orleans",29.9962,-90.0499
+"New Orleans",29.9962,-90.0499
+"New Orleans",29.9962,-90.0499
+"South Bend",41.6491,-86.164
+"Yukon",35.4763,-97.727
+"San Antonio",29.4234,-98.4864
+"San Antonio",29.4234,-98.4864
+"Greenwood",33.5209,-90.1553
+"Greenwood",33.5209,-90.1553
+"Greensboro",36.1391,-79.7795
+"Greensboro",36.1391,-79.7795
+"Cleveland",41.5473,-81.5609
+"Cleveland",41.5473,-81.5609
+"Columbus",32.4863,-84.894
+"Columbus",32.4863,-84.894
+"Nashua",42.9085,-92.5449
+"Los Angeles",33.9409,-118.305
+"Los Angeles",33.9409,-118.305
+"Los Angeles",33.9409,-118.305
+"Charleston",38.3496,-81.6325
+"Rockford",42.2671,-89.1381
+"Rockford",42.2671,-89.1381
+"Miami Gardens",25.9353,-80.2431
+"Deland",29.0252,-81.2909
+"Kansas City",38.9753,-94.5658
+"Kansas City",38.9753,-94.5658
+"Bakersfield",35.365,-119.004
+"Bakersfield",35.365,-119.004
+"Bakersfield",35.365,-119.004
+"Bakersfield",35.365,-119.004
+"Bakersfield",35.365,-119.004
+"Bakersfield",35.365,-119.004
+"Chattanooga",35.0478,-85.263
+"Chattanooga",35.0478,-85.263
+"Baton Rouge",30.4568,-91.1573
+"Kansas City",38.9671,-94.5107
+"Kansas City",38.9671,-94.5107
+"Webster",28.4996,-82.0611
+"Coalinga",36.1357,-120.349
+"Coalinga",36.1357,-120.349
+"Coalinga",36.1357,-120.349
+"Coalinga",36.1357,-120.349
+"Phoenix",33.5966,-112.1
+"Statesville",35.7699,-80.8868
+"Statesville",35.7699,-80.8868
+"Statesville",35.7699,-80.8868
+"Statesville",35.7699,-80.8868
+"Colorado Springs",38.9327,-104.796
+"Colorado Springs",38.9327,-104.796
+"Colorado Springs",38.9327,-104.796
+"Fresno",36.7784,-119.82
+"Fresno",36.7784,-119.82
+"Beaumont",30.1209,-94.1352
+"Beaumont",30.1209,-94.1352
+"Lima",40.7723,-84.1311
+"Lima",40.7723,-84.1311
+"Lynchburg",37.4098,-79.1515
+"Montgomery",32.4186,-86.2913
+"Markham",41.5976,-87.6868
+"Markham",41.5976,-87.6868
+"Pittsburgh (Homewood)",40.4613,-79.9
+"Fresno",36.7647,-119.844
+"Fresno",36.7647,-119.844
+"Wendell",42.7705,-114.712
+"Wendell",42.7705,-114.712
+"Fort Myers",26.66,-81.8345
+"Fort Myers",26.66,-81.8345
+"Fort Myers",26.66,-81.8345
+"Fort Myers",26.66,-81.8345
+"Fort Myers",26.66,-81.8345
+"Saint Louis",38.6792,-90.2275
+"Chester",39.8383,-75.4037
+"Saint Paul",44.9564,-93.0672
+"Saint Paul",44.9564,-93.0672
+"Cleveland",41.5293,-81.6522
+"Cleveland",41.5293,-81.6522
+"Cleveland",41.5293,-81.6522
+"Cleveland",41.4769,-81.7323
+"Cleveland",41.4769,-81.7323
+"Fort Wayne",41.0693,-85.1029
+"Fort Wayne",41.0693,-85.1029
+"Fort Wayne",41.0693,-85.1029
+"Mobile",30.592,-88.0743
+"Mobile",30.592,-88.0743
+"Mobile",30.592,-88.0743
+"Mobile",30.592,-88.0743
+"South Bend",41.6553,-86.261
+"Orwigsburg",40.6542,-76.0988
+"Orwigsburg",40.6542,-76.0988
+"Pittsburgh",40.444,-79.9782
+"Pittsburgh",40.444,-79.9782
+"Shreveport",32.4828,-93.7916
+"Shreveport",32.4828,-93.7916
+"Marion",32.6298,-87.3186
+"Marion",32.6298,-87.3186
+"Memphis",35.0597,-90.0764
+"Brownsville",35.5962,-89.244
+"Fort Myers",26.6214,-81.8716
+"San Antonio",29.4315,-98.5436
+"San Antonio",29.4315,-98.5436
+"New Orleans",29.9482,-90.0638
+"New Orleans",29.9482,-90.0638
+"New Orleans",29.9482,-90.0638
+"Cleveland",41.513,-81.622
+"Cleveland",41.513,-81.622
+"Saint Louis",38.6885,-90.251
+"Colorado Springs",38.8161,-104.748
+"Colorado Springs",38.8161,-104.748
+"Newnan",33.3661,-84.7911
+"Newnan",33.3661,-84.7911
+"Centerville",40.9318,-111.882
+"Wilkes Barre",41.2308,-75.9036
+"Wilkes Barre",41.2308,-75.9036
+"Mobile",30.6563,-88.1435
+"Marrero",29.8555,-90.112
+"Marrero",29.8555,-90.112
+"Marrero",29.8555,-90.112
+"Marrero",29.8555,-90.112
+"Birmingham",33.545,-86.7475
+"Birmingham",33.545,-86.7475
+"Birmingham",33.545,-86.7475
+"Shreveport",32.4773,-93.7779
+"Shreveport",32.4773,-93.7779
+"Lexington",33.0976,-90.0603
+"Lexington",33.0976,-90.0603
+"Shreveport",32.4945,-93.7972
+"Shreveport",32.4945,-93.7972
+"Shreveport",32.4945,-93.7972
+"Shreveport",32.4945,-93.7972
+"Detroit",42.3732,-83.1674
+"Detroit",42.3732,-83.1674
+"Lagrange",33.0236,-85.0289
+"Lagrange",33.0236,-85.0289
+"Birmingham",33.6613,-86.6844
+"Birmingham",33.6613,-86.6844
+"Houston",29.8488,-95.5133
+"Houston",29.8488,-95.5133
+"Detroit",42.4207,-82.9748
+"Detroit",42.4207,-82.9748
+"Houston",29.5807,-95.4761
+"Bronx",40.8307,-73.9107
+"Bronx",40.8307,-73.9107
+"Bronx",40.8307,-73.9107
+"Chattanooga",35.042,-85.2654
+"Greensboro",36.0776,-79.9099
+"Milwaukee",43.0811,-87.9584
+"Lithonia",33.7061,-84.1372
+"Grain Valley",39.0367,-94.2075
+"Louisville",38.2248,-85.7784
+"Anderson",40.1528,-85.6587
+"Anderson",40.1528,-85.6587
+"Akron",41.0488,-81.5027
+"Akron",41.0488,-81.5027
+"Saint Louis",38.7039,-90.2529
+"Huntsville",34.7629,-86.5925
+"Huntsville",34.7629,-86.5925
+"Chicago",41.727,-87.5754
+"Chicago",41.727,-87.5754
+"Chicago",41.727,-87.5754
+"Chicago",41.727,-87.5754
+"Chicago",41.727,-87.5754
+"Charlotte",35.2086,-80.9179
+"Charlotte",35.2086,-80.9179
+"Turbeville",33.88,-80.0094
+"Turbeville",33.88,-80.0094
+"Tallahassee",30.4166,-84.275
+"Tallahassee",30.4166,-84.275
+"Fort Worth",32.734,-97.2312
+"Fort Worth",32.734,-97.2312
+"Atlanta",33.7732,-84.4656
+"Atlanta",33.7732,-84.4656
+"Memphis",35.0462,-90.0034
+"Memphis",35.0462,-90.0034
+"Tallahassee",30.4654,-84.3379
+"Winnsboro",32.1579,-91.722
+"Winnsboro",32.1579,-91.722
+"Colorado Springs",38.7668,-104.659
+"Colorado Springs",38.7668,-104.659
+"Colorado Springs",38.7668,-104.659
+"Atlanta",33.7709,-84.4504
+"Atlanta",33.7709,-84.4504
+"Atlanta",33.7709,-84.4504
+"Atlanta",33.7709,-84.4504
+"Ludowici",31.7414,-81.7136
+"Orlando",28.5823,-81.4442
+"Orlando",28.5823,-81.4442
+"Orlando",28.5823,-81.4442
+"Orlando",28.5823,-81.4442
+"Orlando",28.5823,-81.4442
+"Orlando",28.5823,-81.4442
+"Lansing",42.6867,-84.5824
+"Lansing",42.6867,-84.5824
+"Lansing",42.6867,-84.5824
+"Lansing",42.6867,-84.5824
+"Montevallo",33.1228,-86.5894
+"Jackson",35.6197,-88.8193
+"Jackson",35.6197,-88.8193
+"Brooksville",33.2371,-88.4217
+"Brooksville",33.2371,-88.4217
+"Brooksville",33.2371,-88.4217
+"Cartersville",34.161,-84.8052
+"Kansas City",39.0835,-94.5256
+"Montgomery",32.3636,-86.2846
+"Montgomery",32.3636,-86.2846
+"Montgomery",32.3636,-86.2846
+"Montgomery",32.3636,-86.2846
+"Hermiston",45.846,-119.288
+"Hermiston",45.846,-119.288
+"Vernal",40.4503,-109.539
+"Kansas City (Raytown)",38.9488,-94.4615
+"Stockton",37.9544,-121.242
+"Stockton",37.9544,-121.242
+"Stockton",37.9544,-121.242
+"Stockton",37.9544,-121.242
+"Burlington",36.0841,-79.4272
+"Burlington",36.0841,-79.4272
+"Las Vegas",36.1028,-115.129
+"Las Vegas",36.1028,-115.129
+"Las Vegas",36.1028,-115.129
+"Houston",29.6915,-95.5518
+"Houston",29.6915,-95.5518
+"Houston",29.6915,-95.5518
+"New Orleans",29.9913,-90.0669
+"New Orleans",29.9913,-90.0669
+"Columbus",40.0158,-82.9729
+"Guyton",32.3402,-81.4025
+"East Saint Louis",38.6282,-90.1684
+"East Saint Louis",38.6282,-90.1684
+"Dallas",32.6454,-96.8765
+"Dallas",32.6454,-96.8765
+"Louisville",38.2054,-85.7868
+"Pittsburgh",40.4702,-79.9404
+"Pittsburgh",40.4702,-79.9404
+"North Little Rock",34.7599,-92.2099
+"North Little Rock",34.7599,-92.2099
+"North Little Rock",34.7599,-92.2099
+"Fort Wayne",41.061,-85.1127
+"Fort Wayne",41.061,-85.1127
+"Fort Wayne",41.061,-85.1127
+"Fort Wayne",41.061,-85.1127
+"Suitland",38.8485,-76.9201
+"Suitland",38.8485,-76.9201
+"Columbus",39.9241,-82.99
+"Columbus",39.9241,-82.99
+"Columbus",39.9241,-82.99
+"Columbus",39.9241,-82.99
+"Columbus",39.9743,-82.971
+"Columbus",39.9743,-82.971
+"Jackson",32.3723,-90.1267
+"Stockton",37.9648,-121.334
+"Dumfries",38.5636,-77.3224
+"Kansas City",39.0321,-94.5621
+"Williamsburg",37.2248,-76.7816
+"Williamsburg",37.2248,-76.7816
+"Williamsburg",37.2248,-76.7816
+"Dade City",28.3505,-82.1739
+"Warner Robins",32.6189,-83.6124
+"Purvis",31.2568,-89.4103
+"Purvis",31.2568,-89.4103
+"Kalamazoo",42.2806,-85.5462
+"Dearborn",42.2889,-83.243
+"Dearborn",42.2889,-83.243
+"Dearborn",42.2889,-83.243
+"Overland Park",38.9748,-94.705
+"Overland Park",38.9748,-94.705
+"Overland Park",38.9748,-94.705
+"East Saint Louis",38.6282,-90.1698
+"East Saint Louis",38.6282,-90.1698
+"Newport News",37.088,-76.4507
+"Houston",29.6954,-95.5525
+"Houston",29.6954,-95.5525
+"Houston",29.6954,-95.5525
+"Houston",29.6954,-95.5525
+"Philadelphia",39.9272,-75.242
+"Philadelphia",39.9272,-75.242
+"Denver",39.7893,-104.84
+"Denver",39.7893,-104.84
+"Denver",39.7893,-104.84
+"Denver",39.7893,-104.84
+"Ruston",32.5143,-92.6411
+"Ruston",32.5143,-92.6411
+"Ruston",32.5143,-92.6411
+"Ruston",32.5143,-92.6411
+"Gainesville",29.6671,-82.3221
+"Gainesville",29.6671,-82.3221
+"Gainesville",29.6671,-82.3221
+"Indianapolis",39.8403,-86.122
+"Modesto",37.6642,-120.939
+"Modesto",37.6642,-120.939
+"Modesto",37.6642,-120.939
+"Modesto",37.6642,-120.939
+"Bowie",38.9168,-76.7937
+"Lamesa",32.9492,-102.012
+"Lamesa",32.9492,-102.012
+"Glendale",33.5168,-112.186
+"Big Spring",32.2371,-101.473
+"Big Spring",32.2371,-101.473
+"Big Spring",32.2371,-101.473
+"Big Spring",32.2371,-101.473
+"Corning",40.0187,-122.393
+"Corning",40.0187,-122.393
+"Corning",40.0187,-122.393
+"Corning",40.0187,-122.393
+"Corning",40.0187,-122.393
+"Corning",40.0187,-122.393
+"Corning",40.0187,-122.393
+"Corning",40.0187,-122.393
+"Corning",40.0187,-122.393
+"Corning",40.0187,-122.393
+"Corning",40.0187,-122.393
+"Corning",40.0187,-122.393
+"Corning",40.0187,-122.393
+"Corning",40.0187,-122.393
+"Corning",40.0187,-122.393
+"Corning",40.0187,-122.393
+"Corning",40.0187,-122.393
+"Corning",40.0187,-122.393
+"Phenix City",32.4869,-85.0156
+"Osyka",31.0093,-90.4761
+"Osyka",31.0093,-90.4761
+"Osyka",31.0093,-90.4761
+"Philadelphia",40.0094,-75.1575
+"Philadelphia",40.0094,-75.1575
+"Memphis",35.1688,-89.9441
+"Memphis",35.1688,-89.9441
+"Memphis",35.1688,-89.9441
+"Atlanta",33.6991,-84.3014
+"Atlanta",33.6991,-84.3014
+"Albuquerque",35.0696,-106.726
+"Kansas City",39.01,-94.4405
+"Maywood",41.8896,-87.8395
+"Maywood",41.8896,-87.8395
+"Maywood",41.8896,-87.8395
+"Maywood",41.8896,-87.8395
+"Maywood",41.8896,-87.8395
+"Columbus",39.9633,-82.9114
+"Columbus",39.9633,-82.9114
+"Columbus",39.9633,-82.9114
+"Columbus",39.9633,-82.9114
+"York",40.8684,-97.59
+"York",40.8684,-97.59
+"York",40.8684,-97.59
+"York",40.8684,-97.59
+"York",40.8684,-97.59
+"York",40.8684,-97.59
+"York",40.8684,-97.59
+"York",40.8684,-97.59
+"York",40.8684,-97.59
+"Milan",39.0612,-85.1456
+"Birmingham",33.5041,-86.7663
+"Birmingham",33.5041,-86.7663
+"Akron",41.066,-81.5303
+"Akron",41.066,-81.5303
+"Warren",33.6025,-92.0749
+"Colorado Springs",38.8945,-104.766
+"Colorado Springs",38.8945,-104.766
+"Horry (county)",33.8523,-79.0104
+"Birmingham",33.4454,-86.9287
+"Birmingham",33.4454,-86.9287
+"Hull",34.0276,-83.3017
+"Hull",34.0276,-83.3017
+"Milwaukee",43.0883,-87.9184
+"Warren",41.2304,-80.7848
+"Sumter",33.9421,-80.3684
+"Covington",39.0588,-84.5131
+"Covington",39.0588,-84.5131
+"Covington",39.0588,-84.5131
+"Covington",39.0588,-84.5131
+"Philadelphia",39.9853,-75.1731
+"Camp Douglas",43.8766,-90.277
+"Pittsburgh (Penn Hills)",40.4693,-79.8206
+"Killeen",31.1031,-97.7701
+"Killeen",31.1031,-97.7701
+"Saint Petersburg",27.7541,-82.6642
+"Saint Petersburg",27.7541,-82.6642
+"Jackson",32.265,-90.2239
+"Jackson",32.265,-90.2239
+"Grenada",33.7744,-89.7657
+"Pretty Prairie",37.7558,-98.0275
+"Pretty Prairie",37.7558,-98.0275
+"Flint",43.0559,-83.6895
+"Carlsbad",32.4213,-104.249
+"Carlsbad",32.4213,-104.249
+"Memphis",35.1051,-89.9852
+"Jackson",32.2586,-90.2411
+"Jackson",32.2586,-90.2411
+"Jackson",32.2586,-90.2411
+"Louisville",38.1806,-85.6219
+"Louisville",38.1806,-85.6219
+"Louisville",38.1806,-85.6219
+"Louisville",38.1806,-85.6219
+"Louisville",38.1806,-85.6219
+"Louisville",38.1806,-85.6219
+"Columbia Falls",48.3517,-114.18
+"Columbia Falls",48.3517,-114.18
+"Los Angeles",33.958,-118.289
+"San Antonio",29.4631,-98.6195
+"San Antonio",29.4631,-98.6195
+"San Antonio",29.4631,-98.6195
+"San Antonio",29.4631,-98.6195
+"San Antonio",29.4631,-98.6195
+"San Antonio",29.4631,-98.6195
+"Lithonia",33.7303,-84.1317
+"Leesburg",28.7977,-81.8901
+"Leesburg",28.7977,-81.8901
+"Philadelphia",32.7802,-89.1246
+"Atlanta",33.6858,-84.508
+"York",39.9599,-76.7271
+"York",39.9599,-76.7271
+"Jacksonville",30.3241,-81.6838
+"Jacksonville",30.3241,-81.6838
+"Fort Myers",26.66,-81.8345
+"Fort Myers",26.66,-81.8345
+"Fort Myers",26.66,-81.8345
+"Akron",41.1132,-81.5002
+"Warrenton (Opal)",38.6279,-77.8005
+"Warrenton (Opal)",38.6279,-77.8005
+"Concan",29.5536,-99.7184
+"Concan",29.5536,-99.7184
+"Concan",29.5536,-99.7184
+"Baton Rouge",30.5136,-91.172
+"Baton Rouge",30.5136,-91.172
+"Philadelphia",39.9357,-75.2312
+"Philadelphia",39.9357,-75.2312
+"Walterboro",32.9096,-80.6629
+"Clovis",34.4047,-103.205
+"Clovis",34.4047,-103.205
+"Clovis",34.4047,-103.205
+"Clovis",34.4047,-103.205
+"Clovis",34.4047,-103.205
+"Clovis",34.4047,-103.205
+"Clovis",34.4047,-103.205
+"Gainesville",33.62,-97.1322
+"Gainesville",33.62,-97.1322
+"Los Angeles",33.9419,-118.265
+"Los Angeles",33.9419,-118.265
+"Nashville",36.1059,-86.7927
+"Nashville",36.1059,-86.7927
+"Atlanta",33.7064,-84.4885
+"Atlanta",33.7086,-84.4435
+"Chicago",41.8867,-87.7066
+"Chicago",41.8867,-87.7066
+"Bronx",40.8292,-73.9077
+"Bronx",40.8292,-73.9077
+"Chicago",41.7478,-87.5493
+"Chicago",41.7478,-87.5493
+"Little Rock",34.7408,-92.3238
+"Little Rock",34.7408,-92.3238
+"Little Rock",34.7408,-92.3238
+"Little Rock",34.7408,-92.3238
+"Bakersfield",35.4051,-119.021
+"Newark",40.7475,-74.1906
+"Newark",40.7475,-74.1906
+"Newark",40.7475,-74.1906
+"Clinton",35.0348,-78.3278
+"Clinton",35.0348,-78.3278
+"Clinton",35.0348,-78.3278
+"Chicago",41.708,-87.5393
+"Chicago",41.708,-87.5393
+"Staten Island",40.5296,-74.189
+"Staten Island",40.5296,-74.189
+"Decatur",33.7737,-84.2932
+"Beaumont",30.0505,-94.0974
+"Beaumont",30.0505,-94.0974
+"Beaumont",30.0505,-94.0974
+"Beaumont",30.0505,-94.0974
+"Des Moines",41.5917,-93.5609
+"Saint Augustine",30.0026,-81.6008
+"Cleveland",41.4885,-81.7355
+"Savannah",32.032,-81.0619
+"Savannah",32.032,-81.0619
+"Mabank",32.2942,-96.1004
+"Fort Lauderdale",26.1212,-80.1329
+"Livingston",42.9028,-90.4726
+"Livingston",42.9028,-90.4726
+"Harrisburg",40.2504,-76.8635
+"Harrisburg",40.2504,-76.8635
+"Iowa City",41.7004,-91.5199
+"Iowa City",41.7004,-91.5199
+"Chicago",41.905,-87.757
+"Chicago",41.905,-87.757
+"Chicago",41.905,-87.757
+"Mobile (Prichard)",30.7186,-88.0941
+"Mobile (Prichard)",30.7186,-88.0941
+"Mobile (Prichard)",30.7186,-88.0941
+"Rockford",42.2821,-89.1184
+"Rockford",42.2821,-89.1184
+"San Antonio",29.3796,-98.3778
+"San Antonio",29.3796,-98.3778
+"San Antonio",29.3796,-98.3778
+"Newport News",36.9789,-76.4195
+"Gary",41.5807,-87.3755
+"Pittsburgh",40.4612,-79.8998
+"Fouke",33.3026,-93.8775
+"Fouke",33.3026,-93.8775
+"Columbus",39.9449,-82.891
+"Cleveland",41.5703,-81.5723
+"Cleveland",41.5703,-81.5723
+"Cleveland",41.5703,-81.5723
+"Cleveland",41.5703,-81.5723
+"Cleveland",41.5703,-81.5723
+"Cleveland",41.5703,-81.5723
+"Cleveland",41.5703,-81.5723
+"Amarillo",35.2174,-101.804
+"Hayesville",40.7732,-82.2621
+"Hayesville",40.7732,-82.2621
+"Hayesville",40.7732,-82.2621
+"Bronx",40.8447,-73.9091
+"Bronx",40.8447,-73.9091
+"Bronx",40.8447,-73.9091
+"Bronx",40.8447,-73.9091
+"Bronx",40.8447,-73.9091
+"Lawrence",38.9754,-95.2401
+"Lawrence",38.9754,-95.2401
+"Cincinnati",39.1788,-84.5104
+"Cincinnati",39.1788,-84.5104
+"Cincinnati",39.1788,-84.5104
+"Commerce City",39.8754,-104.796
+"Commerce City",39.8754,-104.796
+"Dale",29.8528,-97.5195
+"Dale",29.8528,-97.5195
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Sutherland Springs",29.2733,-98.0564
+"Clermont",28.377,-81.6769
+"Clermont",28.377,-81.6769
+"Berger",38.633,-91.3231
+"Chicago",41.875,-87.7619
+"Chicago",41.875,-87.7619
+"Chicago",41.875,-87.7619
+"Millsap",32.7592,-98.0012
+"Kosciusko",33.0498,-89.5888
+"Charleston",38.3441,-81.6259
+"Bridgeport",41.1757,-73.2131
+"Bridgeport",41.1757,-73.2131
+"Natchitoches",31.741,-93.0871
+"Natchitoches",31.741,-93.0871
+"Natchitoches",31.741,-93.0871
+"Natchitoches",31.741,-93.0871
+"Natchitoches",31.741,-93.0871
+"Natchitoches",31.741,-93.0871
+"Girard",37.5139,-94.8699
+"Mobile",30.6681,-88.0525
+"Mobile",30.6681,-88.0525
+"Mobile",30.6681,-88.0525
+"Valley",32.7627,-85.1503
+"Saint Louis",38.6064,-90.2275
+"San Antonio",29.4304,-98.7531
+"Cleveland",41.4986,-81.6741
+"Cleveland",41.4986,-81.6741
+"Cleveland",41.4986,-81.6741
+"Cleveland",41.4986,-81.6741
+"Brooklyn",40.6366,-73.9118
+"Brooklyn",40.6366,-73.9118
+"Roanoke",37.3182,-80.1893
+"Roanoke",37.3182,-80.1893
+"Toledo",41.6482,-83.5625
+"Toledo",41.6482,-83.5625
+"Toledo",41.6482,-83.5625
+"Detroit",42.3957,-83.0422
+"Asheville",35.5902,-82.5834
+"Asheville",35.5902,-82.5834
+"Asheville",35.5902,-82.5834
+"Asheville",35.5902,-82.5834
+"Asheville",35.5902,-82.5834
+"Asheville",35.5902,-82.5834
+"Asheville",35.5902,-82.5834
+"Macon",32.8404,-83.6665
+"Macon",32.8404,-83.6665
+"New Orleans",29.9438,-90.0844
+"New Orleans",29.9438,-90.0844
+"Birmingham",33.5186,-86.8084
+"Toledo",41.6684,-83.6908
+"Toledo",41.6684,-83.6908
+"Pikeville",35.4976,-77.9594
+"Pikeville",35.4976,-77.9594
+"Memphis",35.2556,-89.9417
+"Memphis",35.2556,-89.9417
+"Memphis",35.2556,-89.9417
+"Carson City",39.1662,-119.733
+"Carson City",39.1662,-119.733
+"Springfield",37.1261,-93.3277
+"Springfield",37.1261,-93.3277
+"Saginaw",43.4091,-83.9242
+"Sandy",40.5941,-111.826
+"Sandy",40.5941,-111.826
+"Sandy",40.5941,-111.826
+"Sandy",40.5941,-111.826
+"Sandy",40.5941,-111.826
+"Marianna",30.5715,-85.1833
+"Marianna",30.5715,-85.1833
+"Alachua",29.7985,-82.4971
+"Alachua",29.7985,-82.4971
+"Alachua",29.7985,-82.4971
+"Alachua",29.7985,-82.4971
+"Alachua",29.7985,-82.4971
+"Alachua",29.7985,-82.4971
+"Alachua",29.7985,-82.4971
+"Lenexa",38.951,-94.7368
+"Lenexa",38.951,-94.7368
+"Detroit",42.336,-83.1504
+"Hercules",38.0092,-122.275
+"Hercules",38.0092,-122.275
+"Hercules",38.0092,-122.275
+"Jacksonville",30.2754,-81.7459
+"Jacksonville",30.2754,-81.7459
+"Jacksonville",30.2754,-81.7459
+"Jacksonville",30.2754,-81.7459
+"Little Rock",34.7234,-92.3455
+"Little Rock",34.7234,-92.3455
+"Little Rock",34.7234,-92.3455
+"Saint Louis (University City)",38.6692,-90.31
+"Saint Louis (University City)",38.6692,-90.31
+"Saint Louis (University City)",38.6692,-90.31
+"Saint Louis (University City)",38.6692,-90.31
+"Saint Louis (University City)",38.6692,-90.31
+"Hudson",42.2492,-73.783
+"Hudson",42.2492,-73.783
+"Hudson",42.2492,-73.783
+"Warren",42.4575,-82.9893
+"Warren",42.4575,-82.9893
+"Gary",41.5843,-87.3901
+"Saint Louis",38.6529,-90.2227
+"Oakland",37.7766,-122.174
+"Oakland",37.7766,-122.174
+"Oakland",37.7766,-122.174
+"Wichita",37.6892,-97.4031
+"Saint Louis",38.7598,-90.2487
+"Durham",36.0522,-78.9049
+"Sarasota",27.3882,-82.5237
+"Sarasota",27.3882,-82.5237
+"Sarasota",27.3882,-82.5237
+"Memphis",35.0369,-90.0543
+"New Orleans",30.0136,-89.9875
+"New Orleans",30.0136,-89.9875
+"Gretna (Terrytown)",29.901,-90.0346
+"Gretna (Terrytown)",29.901,-90.0346
+"Gretna (Terrytown)",29.901,-90.0346
+"Memphis",35.0867,-89.9616
+"Memphis",35.0867,-89.9616
+"Temple",31.0971,-97.3555
+"Temple",31.0971,-97.3555
+"Hilton Head Island",32.2151,-80.7089
+"Hilton Head Island",32.2151,-80.7089
+"Hilton Head Island",32.2151,-80.7089
+"South Bend",41.6727,-86.2119
+"Hulen",36.7912,-83.5239
+"Hulen",36.7912,-83.5239
+"Shreveport",32.3886,-93.8263
+"Austin",30.3712,-97.6924
+"Austin",30.3712,-97.6924
+"Austin",30.3712,-97.6924
+"Austin",30.3712,-97.6924
+"Austin",30.3712,-97.6924
+"Charlotte",35.208,-80.9171
+"Charlotte",35.208,-80.9171
+"Edwards (North Edwards)",34.9877,-117.876
+"Jacksonville",30.3691,-81.7123
+"Jacksonville",30.3691,-81.7123
+"Jacksonville",30.3691,-81.7123
+"Baltimore",39.3016,-76.602
+"Harrells",34.6939,-78.2196
+"New Orleans",30.0383,-89.9769
+"New Orleans",30.0383,-89.9769
+"New Orleans",30.0383,-89.9769
+"Detroit",42.4084,-83.1406
+"Detroit",42.4084,-83.1406
+"Kansas City",39.1062,-94.5794
+"Hixson",35.187,-85.1925
+"Saint Louis",38.67,-90.289
+"Lexington",38.051,-84.4712
+"Lexington",38.051,-84.4712
+"Memphis",35.0669,-89.8845
+"Chicago",41.9096,-87.744
+"Chicago",41.9096,-87.744
+"Chicago",41.9096,-87.744
+"Dayton (Trotwood)",39.749,-84.2923
+"Dayton (Trotwood)",39.749,-84.2923
+"Dayton (Trotwood)",39.749,-84.2923
+"Dayton (Trotwood)",39.749,-84.2923
+"Saint Louis",38.6943,-90.2523
+"Saint Louis",38.6943,-90.2523
+"Saint Louis",38.6943,-90.2523
+"Saint Louis",38.6943,-90.2523
+"Saint Louis",38.6943,-90.2523
+"Orlando",28.5461,-81.4479
+"Winn",45.4527,-68.3589
+"Chicago",41.729,-87.5881
+"Pittsburgh",40.4546,-80.0633
+"Pittsburgh",40.4546,-80.0633
+"Pittsburgh",40.4546,-80.0633
+"Pittsburgh",40.4546,-80.0633
+"Pittsburgh",40.4546,-80.0633
+"Pittsburgh",40.4546,-80.0633
+"Muskegon (Muskegon Heights)",43.2093,-86.2277
+"Muskegon (Muskegon Heights)",43.2093,-86.2277
+"Muskegon (Muskegon Heights)",43.2093,-86.2277
+"Selma",32.4293,-87.0144
+"Selma",32.4293,-87.0144
+"Selma",32.4293,-87.0144
+"Selma",32.4293,-87.0144
+"Lansing",41.5732,-87.567
+"Lansing",41.5732,-87.567
+"Rayne",30.2442,-92.2728
+"Richmond",37.5437,-77.4115
+"Richmond",37.5437,-77.4115
+"Denison",33.7657,-96.5597
+"Denison",33.7657,-96.5597
+"Denison",33.7657,-96.5597
+"Denison",33.7657,-96.5597
+"Denison",33.7657,-96.5597
+"Milwaukee",43.0799,-87.9673
+"Milwaukee",43.0799,-87.9673
+"Jacksonville",30.4074,-81.7287
+"West Palm Beach",26.7564,-80.0833
+"Philadelphia",39.9339,-75.225
+"Shreveport",32.4252,-93.7631
+"Jersey City",40.7358,-74.0778
+"Jersey City",40.7358,-74.0778
+"Jersey City",40.7358,-74.0778
+"Jersey City",40.7358,-74.0778
+"Wilmington",39.7387,-75.5429
+"Wilmington",39.7387,-75.5429
+"Chicago (Englewood)",41.7925,-87.6463
+"Chicago",41.9658,-87.6552
+"Chicago",41.9658,-87.6552
+"Glendale",33.5096,-112.184
+"Cincinnati",39.2542,-84.5966
+"Cincinnati",39.2542,-84.5966
+"Cincinnati",39.2542,-84.5966
+"Cincinnati",39.2542,-84.5966
+"Cincinnati",39.2542,-84.5966
+"Cincinnati",39.2542,-84.5966
+"Cincinnati",39.2542,-84.5966
+"Cincinnati",39.2542,-84.5966
+"Cincinnati",39.2542,-84.5966
+"Cincinnati",39.2542,-84.5966
+"Cincinnati",39.2542,-84.5966
+"Las Vegas",36.1658,-115.062
+"Las Vegas",36.1658,-115.062
+"Las Vegas",36.1658,-115.062
+"Las Vegas",36.1658,-115.062
+"Las Vegas",36.1658,-115.062
+"Las Vegas",36.1658,-115.062
+"Orlando (Pine Castle)",28.4655,-81.3831
+"Orlando (Pine Castle)",28.4655,-81.3831
+"Orlando (Pine Castle)",28.4655,-81.3831
+"Orlando (Pine Castle)",28.4655,-81.3831
+"Nashville",36.1895,-86.8179
+"Nashville",36.1895,-86.8179
+"Summit",31.2915,-90.4751
+"Newport News",36.989,-76.4223
+"Newport News",36.989,-76.4223
+"Baltimore",39.2484,-76.6308
+"Beaufort",32.4419,-80.7484
+"Martinsburg",39.4568,-77.9676
+"Martinsburg",39.4568,-77.9676
+"New Orleans",29.9225,-90.0224
+"New Orleans",29.9225,-90.0224
+"New Orleans",29.9225,-90.0224
+"New Orleans",29.9225,-90.0224
+"Apple Valley",34.5453,-117.274
+"Apple Valley",34.5453,-117.274
+"Vicksburg",32.2947,-90.8379
+"Vicksburg",32.2947,-90.8379
+"Akron",41.0882,-81.5476
+"Akron",41.0882,-81.5476
+"Akron",41.0882,-81.5476
+"Memphis",35.0421,-90.0886
+"Memphis",35.0421,-90.0886
+"Birmingham",33.5755,-86.7612
+"Louisville",38.2164,-85.5894
+"Jennings",30.2521,-92.6506
+"Jennings",30.2521,-92.6506
+"San Diego",32.7987,-117.196
+"San Diego",32.7987,-117.196
+"Eunice",30.4875,-92.4118
+"Eunice",30.4875,-92.4118
+"Fayetteville",35.1121,-78.909
+"Fayetteville",35.1121,-78.909
+"Fayetteville",35.1121,-78.909
+"Tabor City",34.0951,-78.7434
+"Tabor City",34.0951,-78.7434
+"Tabor City",34.0951,-78.7434
+"Charlotte",35.2853,-80.8298
+"Charlotte",35.2853,-80.8298
+"Milwaukee",43.1353,-87.9718
+"Milwaukee",43.1353,-87.9718
+"Milwaukee",43.1353,-87.9718
+"Compton",33.8962,-118.192
+"Compton",33.8962,-118.192
+"Montgomery",32.3579,-86.344
+"Jonesboro",35.8185,-90.6636
+"Jonesboro",35.8185,-90.6636
+"Jonesboro",35.8185,-90.6636
+"Milwaukee",43.1281,-87.9882
+"Milwaukee",43.1281,-87.9882
+"Chicago",41.9191,-87.7266
+"North Charleston",32.9339,-80.0791
+"Pacoima",34.2659,-118.417
+"Pacoima",34.2659,-118.417
+"Pacoima",34.2659,-118.417
+"Pacoima",34.2659,-118.417
+"Pacoima",34.2659,-118.417
+"Atlanta",33.8119,-84.3671
+"Atlanta",33.8119,-84.3671
+"Atlanta",33.8119,-84.3671
+"Milwaukee",43.0734,-87.9621
+"Milwaukee",43.0734,-87.9621
+"Milwaukee",43.0734,-87.9621
+"Milwaukee",43.0734,-87.9621
+"Laurel",31.7023,-89.1276
+"Laurel",31.7023,-89.1276
+"Deer Creek",46.3812,-95.3176
+"Deer Creek",46.3812,-95.3176
+"Madison",36.2749,-86.706
+"Charleston",32.7971,-79.9501
+"Charleston",32.7971,-79.9501
+"Butler",40.8435,-79.7893
+"Youngstown",41.1377,-80.6603
+"Milwaukee",43.1045,-87.9618
+"Houston",29.7074,-95.4883
+"Houston",29.7074,-95.4883
+"Houston",29.7074,-95.4883
+"Houston",29.7074,-95.4883
+"Richmond",37.5694,-77.4125
+"Richmond",37.5694,-77.4125
+"Columbus",40.1015,-83.0127
+"Hartford",41.7849,-72.6873
+"Mount Pleasant",39.5528,-111.453
+"Newton",38.0317,-97.3366
+"Newton",38.0317,-97.3366
+"Chicago",41.7855,-87.6255
+"Newport News",37.1152,-76.5169
+"Newport News",37.1152,-76.5169
+"Wilmington",39.7495,-75.5718
+"Columbus",32.5449,-84.9472
+"West Memphis",35.1265,-90.2005
+"Boston",42.326,-71.1045
+"Max",47.8542,-101.253
+"Max",47.8542,-101.253
+"Memphis",35.0205,-90.0979
+"Columbia",39.016,-92.2994
+"Columbia",39.016,-92.2994
+"Columbia",39.016,-92.2994
+"Quaker City",40.004,-81.3184
+"Washington",38.8549,-76.991
+"Washington",38.8549,-76.991
+"Attica",42.7984,-78.3964
+"Chicago",41.9648,-87.7197
+"Chicago",41.9648,-87.7197
+"Summerville",32.9971,-80.2172
+"Saint Louis",38.6758,-90.2184
+"Saint Louis",38.6758,-90.2184
+"Philadelphia",39.9413,-75.2206
+"Washington",38.8705,-76.945
+"Lorain",41.4711,-82.1462
+"Lorain",41.4711,-82.1462
+"Lorain",41.4711,-82.1462
+"San Antonio",29.4296,-98.6217
+"San Antonio",29.4296,-98.6217
+"Saint Louis",38.5921,-90.2305
+"Norfolk",36.8574,-76.2846
+"Norfolk",36.8574,-76.2846

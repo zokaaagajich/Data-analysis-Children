@@ -1,0 +1,4 @@
+.PHONY: clean
+
+clean:
+	rm *.aux *.log *.out *.toc *.synctex.gz *.bbl *.blg *.lof *.lot
